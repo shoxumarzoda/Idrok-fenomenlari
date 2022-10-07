@@ -51,12 +51,13 @@ public class HomeFragment extends Fragment {
     }
 
     private void initiali() {
-        modelViewPagerList.add(new ModelViewPager(R.drawable.a1,"Қизиқарли психология ҳақида бир сўз..........","Тўлин ой уфқнинг энг баланд  ...",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.a6,"Идрок ҳақида тушунча","Идрок сезгиларга нисбатан ",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.a12,"Идрок турлари ва унинг индивидуал хусусиятлари","Идрокнинг вақтни, ҳаракатни, фазони ",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.a2,"Идрокнинг асосий хусусиятлари.","Идрок хусусиятлари турли жабҳалар",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.a11,"Изоҳли луғат","Изоҳли луғат",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.a7,"Адабиётлар","Адабиётлар",""));
+
+        modelViewPagerList.add(new ModelViewPager(R.drawable.a1,"Қизиқарли психология ҳақида бир сўз..........","Тўлин ой уфқнинг энг баланд  ...","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/1.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.a6,"Идрок ҳақида тушунча","Идрок сезгиларга нисбатан ","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/2.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.a12,"Идрок турлари ва унинг индивидуал хусусиятлари","Идрокнинг вақтни, ҳаракатни, фазони ","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/3.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.a2,"Идрокнинг асосий хусусиятлари.","Идрок хусусиятлари турли жабҳалар","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/4.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.a11,"Изоҳли луғат","Изоҳли луғат","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/5.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.a7,"Адабиётлар","Адабиётлар","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/adab.pdf"));
 
     }
 

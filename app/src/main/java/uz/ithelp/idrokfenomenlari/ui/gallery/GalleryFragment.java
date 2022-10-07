@@ -51,14 +51,17 @@ public class GalleryFragment extends Fragment {
     }
 
     private void initiali() {
-        modelViewPagerList.add(new ModelViewPager(R.drawable.b1,"Расмда нима акс этган? Яхшилаб кузатинг!","Расмда нима акс этган? Яхшилаб кузатинг",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.b2,"Расмда кимлар ифодаланган?","Расмда кимлар ифодаланган?",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.b3,"Ушбу расмда кимларни кўраяпсиз?","Ушбу расмда кимларни кўраяпсиз?",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.b4,"Суратларни шошилмасдан кузатинг қанча предметларни санай оларкансиз","Суратларни шошилмасдан кузатинг қанча предметларни санай оларкансиз",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.b5,"Суратда бир оила аъзолари ифодаланган топингчи","Ушбу суратда қанча инсон қиёфаси яширинган топингчи",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.b6,"Бу ерда нечта куб кўрсатилган?","Зинапоя қандай жойлашган",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.b7,"Халқанинг қайси қисми олдинда?","Ишчилар қаерда ишламоқда?",""));
-        modelViewPagerList.add(new ModelViewPager(R.drawable.b8,"Тахталар сони нечта ?","Тахталар сони нечта ?",""));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b1,"Расмда нима акс этган? Яхшилаб кузатинг!","Расмда нима акс этган? Яхшилаб кузатинг","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/1r.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b2,"Расмда кимлар ифодаланган?","Расмда кимлар ифодаланган?","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/2r.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b3,"Ушбу расмда кимларни кўраяпсиз?","Ушбу расмда кимларни кўраяпсиз?","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/3r.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b4,"Суратларни шошилмасдан кузатинг қанча предметларни санай оларкансиз","Суратларни шошилмасдан кузатинг қанча предметларни санай оларкансиз","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/4r.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b5,"Суратда бир оила аъзолари ифодаланган топингчи","Суратда бир оила аъзолари ифодаланган топингчи","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/5r.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b6,"Ушбу суратда қанча инсон қиёфаси яширинган топингчи","Ушбу суратда қанча инсон қиёфаси яширинган топингчи","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/6r.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b7,"Бу ерда нечта куб кўрсатилган?","Бу ерда нечта куб кўрсатилган?","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/7r.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b6,"Зинапоя қандай жойлашган","Зинапоя қандай жойлашган","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/8r.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b9,"Халқанинг қайси қисми олдинда?","Халқанинг қайси қисми олдинда?","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/9r.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b3,"Ишчилар қаерда ишламоқда?","Ишчилар қаерда ишламоқда?","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/10r.pdf"));
+        modelViewPagerList.add(new ModelViewPager(R.drawable.b5,"Тахталар сони нечта ?","Тахталар сони нечта ?","https://github.com/shoxumarzoda/Idrok-fenomenlari/raw/master/11r.pdf"));
 
     }
 
